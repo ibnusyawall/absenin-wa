@@ -1,0 +1,22 @@
+{
+  "name": "absensi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.0",
+    "file-type": "^16.5.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "image-to-base64": "^2.2.0",
+    "moment-timezone": "^0.5.33",
+    "nedb": "^1.8.0",
+    "needle": "^2.6.0",
+    "node-fetch": "^2.6.1"
+  }
+}
